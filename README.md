@@ -76,7 +76,7 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
 
 ### Umsonstladen Nuernberg
 
-  * :clock1: Tuesdays (18-20h, bringers only), Saturdays (9-11h), Saturdays
+  * :clock1: Tuesday (18-20h, bringers only), Saturday (9-11h), Saturday
     (11-13h, bringers only).
   * :envelope: Rothenburger Straße 51a (Nürnberg).
   * :link: http://www.umsonstladen-nuernberg.de
