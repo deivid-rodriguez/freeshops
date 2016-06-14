@@ -5,21 +5,24 @@
 Do you run a freeshop? Do you know an active freeshop? Send me the info to
 deivid.rodriguez@riseup.net and I'll add it to the list.
 
-## Spain (Tienda Gratis)
+## Belgium (Marché Gratuit)
 
-### Tienda Gratis de la Tabacalera
+### Marché Gratuit Flagey
 
-  * :clock1: Tuesday, Wednesday & Thursday. 18-20h.
-  * :envelope: C/ Embajadores, 53 (Madrid).
-  * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
-  * :warning: Clothes only.
+  * :clock1: Third Saturday of every month (13.30-15.30h).
+  * :envelope: On the steps of the church, next to Cafe Belga. Ixelles
+    (Brussels).
+  * :link: https://www.facebook.com/mgratuitbxl
 
-### Tienda Gratis del Centro Cívico Madre de Dios
+## Denmark (Freeshop)
 
-  * :clock1: Sunday. 10-12h.
-  * :envelope: C/ Madre de Dios, 13 (Logroño).
-  * :link: https://www.facebook.com/tiendagratislogrono
-  * :warning: Only 3 articles per person.
+### Free Shop Svendborg
+
+  * :clock1: Every other Saturday (10-12h).
+  * :envelope: Frederiksø 2 (Svendborg).
+  * :link: https://www.facebook.com/freeshopsvendborg
+  * :warning: No second-hand underpants, VHS movies, big furniture & food to be
+    refrigerated.
 
 ## Germany (Umsonstladen)
 
@@ -72,21 +75,18 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :warning: No computer monitors and no home-recorded cassettes, video
     cassettes, CDs or DVDs.
 
-## Denmark (Freeshop)
+## Spain (Tienda Gratis)
 
-### Free Shop Svendborg
+### Tienda Gratis de la Tabacalera
 
-  * :clock1: Every other Saturday (10-12h).
-  * :envelope: Frederiksø 2 (Svendborg).
-  * :link: https://www.facebook.com/freeshopsvendborg
-  * :warning: No second-hand underpants, VHS movies, big furniture & food to be
-    refrigerated.
+  * :clock1: Tuesday, Wednesday & Thursday. 18-20h.
+  * :envelope: C/ Embajadores, 53 (Madrid).
+  * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
+  * :warning: Clothes only.
 
-## Belgium (Marché Gratuit)
+### Tienda Gratis del Centro Cívico Madre de Dios
 
-### Marché Gratuit Flagey
-
-  * :clock1: Third Saturday of every month (13.30-15.30h).
-  * :envelope: On the steps of the church, next to Cafe Belga. Ixelles
-    (Brussels).
-  * :link: https://www.facebook.com/mgratuitbxl
+  * :clock1: Sunday. 10-12h.
+  * :envelope: C/ Madre de Dios, 13 (Logroño).
+  * :link: https://www.facebook.com/tiendagratislogrono
+  * :warning: Only 3 articles per person.
