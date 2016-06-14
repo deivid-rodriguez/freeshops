@@ -40,6 +40,13 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
     towards Sternplatz (Tübingen).
   * :link: https://lu15.de/umsonstladen
 
+### Mosaik Bamberg
+
+  * :clock1: Tuesday (16-19h), Wednesday (11-14h), Thursday (16-19h),
+    Friday (16-19h), Saturday (12-16h).
+  * :envelope: Zwerggasse 4 am Maxplatz (Bamberg).
+  * :link: http://mosaik-bamberg.de
+
 ### Schellingstrasse
 
   * :clock1: Wednesday (16-23h), Saturday (12-19h).
@@ -51,13 +58,6 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :clock1: Thursay (17-20h).
   * :envelope: Basler Straße 103 (Freiburg).
   * :link: http://www.kts-freiburg.org/spip/spip.php?article178
-
-### Mosaik Bamberg
-
-  * :clock1: Tuesday (16-19h), Wednesday (11-14h), Thursday (16-19h),
-    Friday (16-19h), Saturday (12-16h).
-  * :envelope: Zwerggasse 4 am Maxplatz (Bamberg).
-  * :link: http://mosaik-bamberg.de
 
 ### Umsonstladen im react!OR
 
@@ -77,16 +77,16 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
 
 ## Spain (Tienda Gratis)
 
-### Tienda Gratis de la Tabacalera
-
-  * :clock1: Tuesday, Wednesday & Thursday. 18-20h.
-  * :envelope: C/ Embajadores, 53 (Madrid).
-  * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
-  * :warning: Clothes only.
-
 ### Tienda Gratis del Centro Cívico Madre de Dios
 
   * :clock1: Sunday. 10-12h.
   * :envelope: C/ Madre de Dios, 13 (Logroño).
   * :link: https://www.facebook.com/tiendagratislogrono
   * :warning: Only 3 articles per person.
+
+### Tienda Gratis de la Tabacalera
+
+  * :clock1: Tuesday, Wednesday & Thursday. 18-20h.
+  * :envelope: C/ Embajadores, 53 (Madrid).
+  * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
+  * :warning: Clothes only.
