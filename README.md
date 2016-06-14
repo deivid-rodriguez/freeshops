@@ -2,6 +2,9 @@
 
 > A list of free shops around the world
 
+Do you run a freeshop? Do you know an active freeshop? Send me the info to
+deivid.rodriguez@riseup.net and I'll add it to the list.
+
 ## Spain (Tienda Gratis)
 
 ### Tienda Gratis de la Tabacalera
