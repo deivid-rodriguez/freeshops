@@ -24,6 +24,14 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :warning: No second-hand underpants, VHS movies, big furniture & food to be
     refrigerated.
 
+## France (Magasin Gratuit)
+
+### Magasin pour Rien
+
+  * :clock1: Tuesday (9-12h), Wednesday (9-12h), Friday (14-17h).
+  * :envelope: 103 rue Vauban (Mulhouse).
+  * :link: https://www.facebook.com/Magasin-pour-Rien-100847306691801
+
 ## Germany (Umsonstladen)
 
 ### FÜA Umme
