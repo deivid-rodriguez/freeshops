@@ -83,6 +83,15 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :warning: No computer monitors and no home-recorded cassettes, video
     cassettes, CDs or DVDs.
 
+## Holland (Weggeefwinkel)
+
+## Weggeefwinkel Amersfoort
+
+  * :clock1: Wednesday, Thursday, Friday, Saturday (13-17h).
+  * :envelope: Tropic 118 3813 BC (Amersfoort).
+  * :link: http://www.weggeefwinkelamersfoort.nl
+  * :warning: Up to 5 items per week.
+
 ## Spain (Tienda Gratis)
 
 ### Tienda Gratis del Centro Cívico Madre de Dios
