@@ -5,6 +5,15 @@
 Do you run a freeshop? Do you know an active freeshop? Send me the info to
 deivid.rodriguez@riseup.net and I'll add it to the list.
 
+## Austria (Kostnix-Läden)
+
+### Kost-Nix-Laden Wien
+
+  * :clock1: Monday, Thursday, Friday (15-20h).
+  * :envelope: Zentagasse 26 (Viena).
+  * :link: http://www.kostnixladen.at/
+  * :warning: List of banned items (see web).
+
 ## Belgium (Marché Gratuit)
 
 ### Marché Gratuit Flagey
