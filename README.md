@@ -102,7 +102,7 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
 
 ## Holland (Weggeefwinkel)
 
-## Weggeefwinkel Amersfoort
+### Weggeefwinkel Amersfoort
 
   * :clock1: Wednesday, Thursday, Friday, Saturday (13-17h).
   * :envelope: Tropic 118 3813 BC (Amersfoort).
