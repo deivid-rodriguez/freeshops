@@ -100,6 +100,13 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :warning: No computer monitors and no home-recorded cassettes, video
     cassettes, CDs or DVDs.
 
+### Umsonstladen Reutlingen
+
+  * :clock1: Tuesday (20-22h).
+  * :envelope: Albstr. 78 (Reutlingen).
+  * :link: https://kulturschock-zelle.de/umsonstladen/
+  * :warning: No space for large items.
+
 ## Holland (Weggeefwinkel)
 
 ### Weggeefwinkel Amersfoort
