@@ -124,3 +124,11 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :envelope: C/ Embajadores, 53 (Madrid).
   * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
   * :warning: Clothes only.
+
+## USA (Free Store)
+
+### Warren Wilson College Free Store
+
+  * :clock1: Monday-Friday (8-12h) and (13-17h).
+  * :envelope: 701 Warren Wilson Rd, Swannanoa (NC).
+  * :link: http://inside.warren-wilson.edu/~recycle/freestore.php
