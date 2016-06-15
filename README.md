@@ -109,6 +109,14 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :link: http://www.weggeefwinkelamersfoort.nl
   * :warning: Up to 5 items per week.
 
+## Norway (Gratisbutikken)
+
+### Gratisbutikken TE&TØY
+
+  * :clock1: Wednesday (17-20h), Saturday (10-14h).
+  * :envelope: Mellomila 63, 7018 (Trondheim).
+  * :link: https://www.facebook.com/teogtoy
+
 ## Spain (Tienda Gratis)
 
 ### Tienda Gratis del Centro Cívico Madre de Dios
