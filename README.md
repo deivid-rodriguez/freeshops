@@ -23,6 +23,14 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
     (Brussels).
   * :link: https://www.facebook.com/mgratuitbxl
 
+## Canada (Free Store)
+
+### Hornby Island RecycleDepot Free Store
+
+  * :clock1: Summer: Thursday-Sunday (9-13h), Winter: Friday-Sunday (9-13h).
+  * :envelope: 3600 Central Rd (Hornby Island).
+  * :link: http://www.hirra.ca/recycle/
+
 ## Denmark (Freeshop)
 
 ### Free Shop Svendborg
