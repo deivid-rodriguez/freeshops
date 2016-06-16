@@ -101,6 +101,12 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :link: https://react.or.ke/umsonstladen
   * :warning: List of banned items (see web).
 
+#### Umsonstladen Karlsruhe
+
+  * :clock1: Thursday (19-22h).
+  * :envelope: Viktoriastrasse 12, rear building (Karlsruhe).
+  * :link: http://umsonstflohmarktka.blogsport.de
+
 #### Umsonstladen Nuernberg
 
   * :clock1: Tuesday (18-20h, bringers only), Saturday (9-11h), Saturday
