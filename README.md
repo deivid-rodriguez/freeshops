@@ -147,7 +147,7 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :clock1: Sunday. 10-12h.
   * :envelope: C/ Madre de Dios, 13 (Logroño).
   * :link: https://www.facebook.com/tiendagratislogrono
-  * :warning: Only 3 articles per person.
+  * :warning: Only 3 articles per person / month.
 
 #### Tienda Gratis de la Tabacalera
 
