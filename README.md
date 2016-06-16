@@ -142,12 +142,25 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
 
 ### Spain (Tienda Gratis)
 
+#### Tienda Gratis del CSOA La Quimera
+
+  * :clock1: All day.
+  * :envelope: Plaza de Nelson Mandela (ex Cabestreros), Lavapiés (Madrid).
+  * :link: http://www.csroaquimera.org/tienda-gratis
+
 #### Tienda Gratis del Centro Cívico Madre de Dios
 
   * :clock1: Sunday. 10-12h.
   * :envelope: C/ Madre de Dios, 13 (Logroño).
   * :link: https://www.facebook.com/tiendagratislogrono
   * :warning: Only 3 articles per person / month.
+
+#### Tienda Gratis de Soria
+
+  * :clock1: Wednesday (19.30-21h), Saturday (12-13h).
+  * :envelope: Espacio Temporal Juan José Martínez, C/ López Salcedo, 13 1º
+    (Soria).
+  * :link: http://agendasocialdesoria.com/team/tienda-gratis-de-soria
 
 #### Tienda Gratis de la Tabacalera
 
