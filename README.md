@@ -142,6 +142,13 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
 
 ### Spain (Tienda Gratis)
 
+#### Tienda Gratis de La Ingobernable
+
+  * :clock1: All day (19:00-23:00).
+  * :envelope: Calle Gobernador 27 (Madrid).
+  * :link: https://ingobernable.net/
+
+
 #### Tienda Gratis del CSOA La Quimera
 
   * :clock1: All day.
