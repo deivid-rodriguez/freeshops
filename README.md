@@ -10,8 +10,9 @@ anything in the shop for free.
 
 ## Contributing
 
-Do you run a freeshop? Do you know an active freeshop? Send me the info to
-deivid.rodriguez@riseup.net and I'll add it to the list.
+Do you run a freeshop? Do you know an active freeshop? Edit the list [directly
+on Github][editing_files] or send me the info to deivid.rodriguez@riseup.net and
+I'll add it to the list.
 
 ## The list
 
@@ -191,3 +192,5 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :clock1: Monday-Friday (8-12h) and (13-17h).
   * :envelope: 701 Warren Wilson Rd, Swannanoa (NC).
   * :link: http://inside.warren-wilson.edu/~recycle/freestore.php
+
+[editing_files]: https://help.github.com/articles/editing-files-in-another-user-s-repository
