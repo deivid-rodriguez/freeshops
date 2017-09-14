@@ -176,6 +176,14 @@ deivid.rodriguez@riseup.net and I'll add it to the list.
   * :link: http://blogs.latabacalera.net/costura/tienda-gratis/.
   * :warning: Clothes only.
 
+#### Tienda Sin Costes del Chico Mendes
+
+  * :clock1: Thursday. 10-14h, 17-19h.
+  * :envelope: Centro de Recursos Ambientales Chico Mendes. Calle del
+    Enebro, s/n (Rivas Vaciamadrid)
+  * :link: http://www.rivasciudad.es/portal/contenedor_ficha.jsp?seccion=s_fnot_d4_v1.jsp&contenido=13278&nivel=1400&tipo=8
+  * :warning: Clothes & books (except for textbooks) only.
+
 ### USA (Free Store)
 
 #### Warren Wilson College Free Store
